@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/car-booking-project/static/css/main.67417d5c.chunk.css",
+    "main.js": "/car-booking-project/static/js/main.4e638552.chunk.js",
+    "main.js.map": "/car-booking-project/static/js/main.4e638552.chunk.js.map",
+    "runtime-main.js": "/car-booking-project/static/js/runtime-main.22438003.js",
+    "runtime-main.js.map": "/car-booking-project/static/js/runtime-main.22438003.js.map",
+    "static/js/2.b60aed71.chunk.js": "/car-booking-project/static/js/2.b60aed71.chunk.js",
+    "static/js/2.b60aed71.chunk.js.map": "/car-booking-project/static/js/2.b60aed71.chunk.js.map",
+    "index.html": "/car-booking-project/index.html",
+    "precache-manifest.8cc70574cdefd6d0b103ad6a8ea2b4ab.js": "/car-booking-project/precache-manifest.8cc70574cdefd6d0b103ad6a8ea2b4ab.js",
+    "service-worker.js": "/car-booking-project/service-worker.js",
+    "static/css/main.67417d5c.chunk.css.map": "/car-booking-project/static/css/main.67417d5c.chunk.css.map",
+    "static/js/2.b60aed71.chunk.js.LICENSE.txt": "/car-booking-project/static/js/2.b60aed71.chunk.js.LICENSE.txt",
+    "static/media/car.png": "/car-booking-project/static/media/car.ac5564e5.png",
+    "static/media/pic.jpg": "/car-booking-project/static/media/pic.b7843a22.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22438003.js",
+    "static/js/2.b60aed71.chunk.js",
+    "static/css/main.67417d5c.chunk.css",
+    "static/js/main.4e638552.chunk.js"
+  ]
+}
